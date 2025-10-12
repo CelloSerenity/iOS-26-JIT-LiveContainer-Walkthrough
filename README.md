@@ -1,2 +1,2 @@
 # LC-JIT-Walkthrough
-[Start Here](./start-here)
+[Start Here](./start-here.md)
