@@ -10,5 +10,6 @@
 5. Double-tap your app in LiveContainer
 6. Enable "Run with JIT"
 7. Import your script
-8. Toggle "Fix File Picker" on
-Congrats, you are finished! Now, simply press "Open" next to your app to enable JIT and open your app!
+8. Toggle "Fix File Picker" on.
+
+Congrats, you are finished! Now, simply select "Run" next to your app to automatically enable JIT and open your app!
