@@ -1,4 +1,6 @@
-Follow the steps at https://sidestore.io/ to install SideStore. When you create a pairing file, select "Install" under StikDebug as well.
+Follow the steps starting at at https://docs.sidestore.io/docs/installation/prerequisites to install SideStore.
+
+When you create a pairing file, select "Install" under StikDebug as well.
 
 Next:
 
