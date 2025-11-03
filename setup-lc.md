@@ -9,4 +9,4 @@ Now, to begin setting up JIT:
 
 Next:
 
-Proceed to [install & setup GetMoreRAM](./install-getmoreram.md)
+Proceed to [install & setup Get More Ram](./install-getmoreram.md)
