@@ -4,4 +4,6 @@
 
 Next:
 
-Proceed to install [SideStore](./install-sidestore.md).
+Do you want to use LiveContainer standalone (safer, easier to auto-update) or combined with SideStore (experimental, but pretty stable and frees up an app slot):
+- [Standalone](./install-livecontainer-standalone.md)
+- [Combined](./install-sidestore+livecontainer.md)
